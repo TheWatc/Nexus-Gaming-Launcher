@@ -1,0 +1,73 @@
+{
+  "apps": [
+    {
+      "name": "Dosya Yöneticisi",
+      "icon": "📁",
+      "cmd": "explorer",
+      "color": "#00f5ff"
+    },
+    {
+      "name": "Terminal",
+      "icon": "⚡",
+      "cmd": "cmd",
+      "color": "#ff2d78"
+    },
+    {
+      "name": "Notepad",
+      "icon": "📝",
+      "cmd": "notepad",
+      "color": "#ffe600"
+    },
+    {
+      "name": "Görev Yöneticisi",
+      "icon": "📊",
+      "cmd": "taskmgr",
+      "color": "#00ff88"
+    },
+    {
+      "name": "Hesap Makinesi",
+      "icon": "🔢",
+      "cmd": "calc",
+      "color": "#00f5ff"
+    },
+    {
+      "name": "Ayarlar",
+      "icon": "⚙️",
+      "cmd": "ms-settings:",
+      "color": "#8855aa"
+    },
+    {
+      "name": "Fotoğraflar",
+      "icon": "🖼️",
+      "cmd": "ms-photos:",
+      "color": "#ff2d78"
+    },
+    {
+      "name": "GrandRP",
+      "cmd": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
+      "icon": "🚀",
+      "color": "#148bda"
+    },
+    {
+      "name": "grandrp en1",
+      "cmd": "C:\\GrandRP Launcher",
+      "icon": "🚀",
+      "color": "#148bda"
+    },
+    {
+      "name": "google chorome",
+      "cmd": "C:\\Program Files\\Google\\Chrome\\Application",
+      "icon": "🚀",
+      "color": "#148bda"
+    },
+    {
+      "name": "google",
+      "cmd": "start chrome",
+      "icon": "🚀",
+      "color": "#148bda"
+    }
+  ],
+  "volume": 100,
+  "wallpaper": "",
+  "username": "THEWATC"
+}
